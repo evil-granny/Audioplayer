@@ -10,7 +10,7 @@
 $ npm install
 # serve with hot reload at localhost:3000
 $ npm start
-##Or
+# or
 $ npm run dev
 
 ```
