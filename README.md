@@ -1,7 +1,7 @@
 # ReactJS Audio Player
 
 ## Demo
-[https://app.herokuapp.com/](https://app.herokuapp.com/)
+[https://simpleaudioplayer.herokuapp.com/](https://simpleaudioplayer.herokuapp.com/)
 
 ## Usage  
 
@@ -10,7 +10,7 @@
 $ npm install
 # serve with hot reload at localhost:3000
 $ npm start
-# serve with hot reload and Sass watch at localhost:3000
+##Or
 $ npm run dev
 
 ```
