@@ -1,5 +1,7 @@
 # ReactJS Audio Player
 
+## This player can play only songs that contains inside 'public/audio' directory
+
 ## Demo
 [https://simpleaudioplayer.herokuapp.com/](https://simpleaudioplayer.herokuapp.com/)
 
